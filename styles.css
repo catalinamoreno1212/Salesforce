@@ -1,0 +1,31 @@
+.btn{
+  background: #1798c1;
+  background-image: -webkit-linear-gradient(top, #1798c1, #1798c1);
+  background-image: -moz-linear-gradient(top, #1798c1, #1798c1);
+  background-image: -ms-linear-gradient(top, #1798c1, #1798c1);
+  background-image: -o-linear-gradient(top, #1798c1, #1798c1);
+  background-image: linear-gradient(to bottom, #1798c1, #1798c1);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 70px;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #17a8d4;
+  background-image: -webkit-linear-gradient(top, #17a8d4, #199fc4);
+  background-image: -moz-linear-gradient(top, #17a8d4, #199fc4);
+  background-image: -ms-linear-gradient(top, #17a8d4, #199fc4);
+  background-image: -o-linear-gradient(top, #17a8d4, #199fc4);
+  background-image: linear-gradient(to bottom, #17a8d4, #199fc4);
+  text-decoration: none;
+}
+
+h1{
+  font-size: 5.625rem;
+  font-family: 'roboto';
+}
